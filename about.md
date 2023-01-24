@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a junior majoring in Computer Science with a minor in Psychology.
 
 ### More Information
 

@@ -95,4 +95,4 @@ exclude:
   - LICENSE
 
 # Show blogs posts with future dates
-# future: true
+future: true

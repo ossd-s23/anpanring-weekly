@@ -20,8 +20,7 @@ Replace the first row with your own contribution.
 
 
 
-| Date # | Contribution (Link)                                                                                                    | Type           | Description                                                                              |
-| ------ | :--------------------------------------------------------------------------------------------------------------------- | :------------- | :--------------------------------------------------------------------------------------- |
+| Date # | Contribution (Link)| Type| Description|
+| --- | --- | --- | --- |
 | Feb 12 | [link to my contribution](https://en.wikipedia.org/w/index.php?title=%C5%8Cokayama_Station&diff=prev&oldid=1138972510) | Wikipedia edit | I revised a citation for existing info and added additional information about the topic. |
-|        |                                                                                                                        |                |                                                                                          |
-|        |                                                                                                                        |                |                                                                                          |
+| - | - | - | - |

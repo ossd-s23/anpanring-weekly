@@ -1,1 +1,1 @@
-This is a simple template for the class blog. 
+This is Jack Dempsey's website for Open Source Software Development, Spring 2023.

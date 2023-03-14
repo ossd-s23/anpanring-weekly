@@ -26,3 +26,4 @@ Replace the first row with your own contribution.
 | Feb 16 | [link to my contribution](https://github.com/joannakl/ossd/issues/47) | Course website issue | I opened an issue for a small typo on the course website. |
 | Feb 28 | [link to my contribution](https://www.openstreetmap.org/changeset/133131060) | OpenStreetMap contribution | I modified information for a shopping center near where I live. |
 | Mar 6 | [link to my contribution](https://github.com/processing/p5.js-website/issues/1334) | p5.js-website issue | I opened an issue for a small inconsistency on the p5.js website |
+| Mar 7 | [link to my contribution](https://github.com/pencil2d/pencil/pull/1750) | Pull request for Pencil2D | I submitted a pull request to fix an issue for Pencil2D, a 2D animation program I use often |

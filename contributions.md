@@ -30,3 +30,4 @@ Replace the first row with your own contribution.
 | Mar 19 | [link to my contribution](https://archive.org/details/art-anatomy-learned-from-sketches_202303) | Upload to archive.org | I uploaded an how-to drawing book to the Internet Archive |
 | Mar 21 | [link to my contribution](https://en.wikipedia.org/w/index.php?title=May_Fourth_Movement&diff=prev&oldid=1145899229) | Wikipedia edit | Fixed small typo on a Wikipedia page |
 | Apr 6 | [link to my contribution](https://github.com/pencil2d/pencil/pull/1750) | Commits | Communicated with Pencil2D maintainers and made some more changes, resulting in merged PR |
+| Apr 21 | [link to my contribution](https://github.com/joannakl/ossd/pull/79) | PR for class website | Claimed an issue regarding typo and submitted PR w/ fix |
